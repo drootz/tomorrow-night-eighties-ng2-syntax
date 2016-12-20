@@ -1,0 +1,32 @@
+{
+  "name": "tomorrow-night-eighties-ng2-syntax",
+  "theme": "syntax",
+  "version": "1.0.3",
+  "description": "Atom syntax theme using the ever popular Tomorrow Night Eighties colors with a Dark and Light theme .",
+  "homepage": "https://atom.io/packages/tomorrow-night-eighties-ng2-syntax",
+  "readme": "# Tomorrow Night Eighties Syntax Theme for Atom\n\n[![apm](https://img.shields.io/apm/v/tomorrow-night-eighties-ng2-syntax.svg)](https://atom.io/packages/tomorrow-night-eighties-ng2-syntax)\n[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/drootz/tomorrow-night-eighties-ng2-syntax/blob/master/LICENSE)\n\nAtom syntax theme using the ever popular Tomorrow Night Eighties colors with a Dark and Light theme with support for Angular 2 HTML syntax.\n\n![](https://raw.githubusercontent.com/drootz/tomorrow-night-eighties-ng2-syntax/master/img/tomorrow_palettes.png)\n\n<p data-height=\"265\" data-theme-id=\"dark\" data-slug-hash=\"VmRaBN\" data-default-tab=\"css,result\" data-user=\"dracine\" data-embed-version=\"2\" data-pen-title=\"Tomorrow Night Eighties for Atom\" class=\"codepen\">See the Pen <a href=\"http://codepen.io/dracine/pen/VmRaBN/\">Tomorrow Night Eighties for Atom</a> by Daniel Racine (<a href=\"http://codepen.io/dracine\">@dracine</a>) on <a href=\"http://codepen.io\">CodePen</a>.</p><script async src=\"https://production-assets.codepen.io/assets/embed/ei.js\"></script>\n\n## Installation\n\nFire up a console and type:\n\n        apm install tomorrow-night-eighties-ng2-syntax\n\nOr, inside Atom's settings select Install and then search for this package. Look the package README for usage instructions.\n\n## Usage\n\nFor Angular 2 syntax highlighting in HTML files you need the [language-html-angular](https://atom.io/packages/language-html-angular) package for Atom. (forked from Github's [language-html](https://atom.io/packages/language-html) package.\n\nTo install this package, fire up a console and type:\n\n        apm install language-html-angular\n\nOr, inside Atom's settings select Install and then search for this package.\n\nOnce the [language-html-angular](https://atom.io/packages/language-html-angular) package installed, select the **Dark** or **Light** theme in the syntax package settings. The theme will be applied on theme change, on window refresh or on a new Atom editor instance.\n\n## Feature\n\n- HTML tag brackets are same color as HTML tag name.\n\n- Angular 2 HTML syntax highlighting.\n\n## Themes\n\n### Dark (default)\n\n![](https://raw.githubusercontent.com/drootz/tomorrow-night-eighties-ng2-syntax/master/img/tomorrow-eighties-dark.png)\n\n### Light\n\n![](https://raw.githubusercontent.com/drootz/tomorrow-night-eighties-ng2-syntax/master/img/tomorrow-eighties-light.png)\n\n***\n\nForked from the [rockymadden/tomorrow-night-eighties-syntax-theme](https://atom.io/themes/tomorrow-night-eighties-syntax).\n\n",
+  "readmeFilename": "readme.md",
+  "license": "MIT",
+  "main": "./lib/settings",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drootz/tomorrow-night-eighties-ng2-syntax.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drootz/tomorrow-night-eighties-ng2-syntax/issues"
+  },
+  "engines": {
+    "atom": ">0.59.0"
+  },
+  "keywords": [
+    "tomorrow",
+    "night",
+    "eighties",
+    "ng2",
+    "Angular",
+    "dark",
+    "light",
+    "day",
+    "ng"
+  ]
+}
