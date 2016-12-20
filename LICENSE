@@ -22,8 +22,8 @@ SOFTWARE.
 
 --------------------------------------------------------------------
 
-This package was derived from the Tomorrow Night Eighties syntax theme for Atom located at 
-<https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme> and distributed under the following
+This package was derived from the syntax-theme-boilerplate-syntax for Atom located at
+<https://github.com/drootz/syntax-theme-boilerplate-syntax> and distributed under the following
 license, located in `README.md`:
 
 Permission to copy, use, modify, sell and distribute this
